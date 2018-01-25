@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  price: 
+  no_of_bedrooms: 1
+  description: MyText
+  inactive_date: 2018-01-25
+
+two:
+  price: 
+  no_of_bedrooms: 1
+  description: MyText
+  inactive_date: 2018-01-25

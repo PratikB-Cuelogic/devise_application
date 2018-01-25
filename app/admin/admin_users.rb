@@ -5,7 +5,6 @@ ActiveAdmin.register AdminUser do
   config.filters = false
 
 
-
   form do |f|
     f.inputs do
       f.input :email
