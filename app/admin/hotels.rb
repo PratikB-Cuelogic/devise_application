@@ -12,4 +12,6 @@ ActiveAdmin.register Hotel do
 #   permitted
 # end
 
+ permit_params :name, :rating, :location, :description
+
 end

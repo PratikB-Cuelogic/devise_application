@@ -24,6 +24,8 @@ span.action_items,.download_links,.pagination_information,.current{
 	display: none;
 }
 
-li#admin_users{
+#admin_users{
 	visibility: hidden !important;
+	width: 0%;
+	font-size: 0;
 }

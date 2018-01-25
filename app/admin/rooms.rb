@@ -12,4 +12,5 @@ ActiveAdmin.register Room do
 #   permitted
 # end
 
+ permit_params :price, :no_of_bedrooms, :description, :inactive_date, :hotel_id
 end
